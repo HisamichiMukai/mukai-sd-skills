@@ -1,4 +1,4 @@
-﻿---
+---
 name: jitera-ai-dev
 description: "Use this skill when the user asks to analyze source code, explore project files, or operate external services such as Slack, email, or calendar. Triggers include: code analysis, source code review, Slack message, send email, check repository. Do NOT use for document creation/editing or response formatting."
 ---
