@@ -1,7 +1,6 @@
 ---
 name: jitera-ai-dev
-description: ソース解析・外部サービス操作時のルール。「ソースを解析」
-「コードを調べて」「Slackに送って」「メールを送信」などの指示時に使用。
+description: "Use this skill when the user asks to analyze source code, explore project files, or operate external services such as Slack, email, or calendar. Triggers include: 'ソースを解析', 'コードを調べて', 'Slackに送って', 'メールを送信', 'analyze the code', 'check the source', 'send a Slack message', 'send an email'. Do NOT use for document creation/editing or response formatting."
 ---
 
 # 開発・業務AI活用ルール

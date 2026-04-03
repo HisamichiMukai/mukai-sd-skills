@@ -1,6 +1,6 @@
 ---
 name: jitera-response-format
-description: 回答・出力フォーマットのルール。すべての回答生成時に適用する。
+description: "Use this skill for all responses to apply output formatting rules. Triggers include: all user queries and responses. Defines language, structure, code block format, completion/error markers, retry behavior, and handling of ambiguous instructions."
 ---
 
 # 出力フォーマットルール
